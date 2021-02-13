@@ -1,0 +1,5 @@
+ * @author willi
+ */
+public interface NoiseCapable {
+    void makeNoise();
+}
